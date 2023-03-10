@@ -20,7 +20,7 @@
 #### About
 
 - ⚡️    Currently working with **Javascript, PHP, Ionic Framework and React**
-- 💼    Frontend Software Engineer @ Nexperience Lda
+- 💼    Frontend Software Engineer @ <a href="https://www.nex.pt" target="_blank">Nex.pt</a>
 - 🎓    (In Progress) Bachelor in Software Engineering @ University of Aveiro / Universidade Aberta
 - 🌍    From Goiânia, Brazil
 - ✈️     Travel, gaming and tech lover.
