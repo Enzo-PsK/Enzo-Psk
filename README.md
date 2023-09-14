@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://enzo-test.github.io" target="_blank">
+<a href="https://enzo-psk.github.io" target="_blank">
 <img src="https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=google-chrome&logoColor=white&color=C67F55" alt="Github" style="margin-bottom: 5px;" />
 </a>
 
